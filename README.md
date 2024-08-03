@@ -1,2 +1,2 @@
-# jazeezsynergy
+# Jazeezsynergy
 Agricultural export website
